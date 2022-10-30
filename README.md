@@ -12,5 +12,5 @@ ZyRoX#8936
 
 
 
-![](https://i.pinimg.com/originals/2f/4c/ee/2f4cee0ec758af99cf31d0257ace6033.gif)
+![](https://media.discordapp.net/attachments/1034534102352801854/1036306915099160576/github-banner.png?width=1005&height=520)
 
