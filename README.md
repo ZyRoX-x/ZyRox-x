@@ -18,5 +18,5 @@ ZyRoX#8936
 
 ### ═────────────────────────────────◇────────────────────────────────═
 
-![](https://media.discordapp.net/attachments/1034534102352801854/1036306915099160576/github-banner.png?width=1005&height=520)
+![](https://media.discordapp.net/attachments/1034534102352801854/1037555140103766066/s5gsP8Y_1_1.jpg)
 
