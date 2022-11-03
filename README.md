@@ -1,22 +1,42 @@
-# ![](https://cdn.discordapp.com/emojis/819343677293068288.webp?size=96&quality=lossless) 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙏𝙤 𝙃𝙚𝙡𝙡 
+<p align="center">
+<a href="https://discord.gg/ujvDEZYApB">
+<img src="https://media.discordapp.net/attachments/1023247620300349541/1023954193356177458/28a41175eb4e13ec82c7b644c362019a.png"
+</a>
+</p>
 
-### [ XRXHACKS.TK](https://xrxhacks.tk/) 𝙼𝚎𝚕𝚑𝚘𝚛 𝚜𝚒𝚝𝚎 𝚙𝚊𝚛𝚊 𝚋𝚊𝚒𝚡𝚊𝚛 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊𝚜 𝚙𝚊𝚛𝚊 𝚗𝚞𝚔𝚊𝚛 𝚜𝚎𝚛𝚟𝚒𝚍𝚘𝚛𝚎𝚜 𝚍𝚎 𝚍𝚒𝚜𝚌𝚘𝚛𝚍, 𝚗𝚞𝚔𝚊𝚛 𝚌𝚘𝚗𝚝𝚊𝚜, 𝚝𝚘𝚔𝚎𝚗 𝚐𝚛𝚊𝚋𝚋𝚎𝚛, 𝚎𝚗𝚝𝚛𝚎 𝚘𝚞𝚝𝚛𝚊𝚜 𝚌𝚘𝚒𝚜𝚊𝚜
-### ═────────────────────────────────◇────────────────────────────────═
-### ABOUT ME
-### 𝚒𝚍𝚎𝚒𝚊𝚜 𝚎𝚖 𝚞𝚖 𝚟𝚊𝚣𝚒𝚘 𝚗𝚞𝚗𝚌𝚊 𝚖𝚎 𝚊𝚝𝚛𝚊𝚒𝚛𝚊𝚖, 𝚊 𝚊𝚌𝚊𝚘 𝚍𝚎𝚟𝚎 𝚜𝚎𝚐𝚞𝚒𝚛 𝚙𝚎𝚗𝚜𝚊𝚖𝚎𝚗𝚝𝚘 𝚘𝚞 𝚟𝚒𝚍𝚊, 𝚊 𝚙𝚘𝚕𝚒𝚝𝚒𝚌𝚊 𝚎 𝚜𝚎𝚖 𝚜𝚎𝚗𝚝𝚒𝚍𝚘.
-### ═────────────────────────────────◇────────────────────────────────═
-### Minhas Redes Sociais
-[Instagram](https://instagram.com/zylovetk)
-```
-@zylovetk
-```
-[Discord](https://discord.com/users/1029397925610143874)
-```
-ZyRoX#8936
-```
+<p align="center">
+<a href="https://discord.gg/ujvDEZYApB">
+<img src="https://lanyard.cnrad.dev/api/1021383297554731060?hideTimestamp=false&hideBadges=false&idleMessage=Work%20on%20Discord%20CapingTeam"
+</a>
+</p>
+
+  
+### KSCH code avec le ❤️
+<a href="https://github.com/kschdsc">
+    <img src="https://komarev.com/ghpvc/?username=kschdsc" alt="page views" />
+  </a>
+  <a href="https://github.com/kschdsc">
+  <img src="https://img.shields.io/github/followers/kschdsckschdsc.svg?style=social&label=Follow&maxAge=2592000">
+  </a>
 
 
-### ═────────────────────────────────◇────────────────────────────────═
+### 🏆 GitHub Profile Trophy:
+---
+<a href="https://github.com/kschdsc/github-profile-trophy">
+  <p align="center">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kschdsc&column=8&theme=radical&no-frame=true&no-bg=true"/>
+    </p>
+</a>
 
-![](https://media.discordapp.net/attachments/1034534102352801854/1036306915099160576/github-banner.png?width=1005&height=520)
+
+
+### 📊 GitHub Stats:
+---
+![KSCH github stats](https://github-readme-stats.vercel.app/api?username=kschdsc&theme=radical&show_icons=true&count_private=true)
+
+![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kschdsc&theme=solarized_dark)
+![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kschdsc&theme=solarized_dark)
+![KSCH Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kschdsc&theme=solarized_dark)
+
+
 
