@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hey I'm ZyRox 👋
-## Online Desde 12/2021
 
 ![](https://komarev.com/ghpvc/?username=verlox&color=blueviolet)
 
